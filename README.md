@@ -10,7 +10,7 @@ This is a simple dictionary web app built with ReactJS. It uses the [Dictionary 
 
 ## Demo
 
-[Live Demo](#)
+[Live Demo](https://dictionary-app-two-kappa.vercel.app/)
 
 ## Installation
 
